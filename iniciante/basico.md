@@ -100,4 +100,4 @@ Para não se confundir fizemos isso aqui para vocês:
 - ../ - diretório anterior
 - && - executar outro comando após o anterior (se tudo ocorrer bem)
 
-> **Pronto, agora podemos continuar a mexer em nossa linha de comando favorita bem mais facilmente :)**
+> **Pronto, agora podemos continuar a mexer em nossa linha de comando favorita bem mais facilmente :) também temos esse documento em [video](https://youtu.be/CDNOrGdi_nY)**
