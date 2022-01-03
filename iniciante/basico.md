@@ -95,9 +95,9 @@ $ nano hello.txt
 ### Observações
 Para não se confundir fizemos isso aqui para vocês:
 
-### ~/ - diretório home / inicial
-### ./ - diretório atual
-### ../ - diretório anterior
-### && - executar outro comando após o anterior (se tudo ocorrer bem)
+- ~/ - diretório home / inicial
+- ./ - diretório atual
+- ../ - diretório anterior
+- && - executar outro comando após o anterior (se tudo ocorrer bem)
 
 > **Pronto, agora podemos continuar a mexer em nossa linha de comando favorita bem mais facilmente :)**
